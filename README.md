@@ -52,7 +52,7 @@ This Contact Management System is a simple C++ application that allows users to 
 2. **Run the Program**
    Execute the compiled program:
    ```sh
-   ./contacts
+   ./contact_manager
 
 ## Notes
 1. Ensure that `contacts.txt` is in the same directory as the executable to load and save contacts properly.
